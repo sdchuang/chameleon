@@ -17,7 +17,7 @@ class Index  {
 
   mounted() {
     
-    store.dispatch('ajax',{method:'get',url:'activity'})
+    store.dispatch('ajax',{method:'get',url:'demo'})
     .then(res => {
       console.log(res)
     })

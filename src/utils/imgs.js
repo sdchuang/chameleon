@@ -1,6 +1,6 @@
 
 export default {
   // 
-  banner: require('../assets/images/banner.jpg'),
+  banner: require('../assets/images/chameleon.png'),
 
 }
